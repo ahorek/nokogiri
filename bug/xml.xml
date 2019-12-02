@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<winstrom version="1.0" rowCount="4184">
+  <faktura-prijata>
+    <id>13250</id>
+    <lastUpdate>2019-01-23T13:17:32.672+02:00</lastUpdate>
+    <kod>PF-641/19</kod>
+    <zamekK showAs="Otevøeno">zamek.otevreno</zamekK>
+    <cisDosle>71171301</cisDosle>
+    <varSym>71171102</varSym>
+    <cisSml/>
+    <cisObj>O11-1121-0111</cisObj>
+    <datObj/>
+    <cisDodak/>
+    <doprava/>
+    <datVyst>2019-03-15+01:00</datVyst>
+    <duzpPuv>2019-03-01+01:00</duzpPuv>
+    <duzpUcto>2019-03-15+01:00</duzpUcto>
+    <datSplat>2019-05-15+02:00</datSplat>
+    <datUhr>2019-05-09+02:00</datUhr>
+    <datTermin/>
+    <datReal/>
+    <popis>Materiál na zakázky </popis>
+    <poznam>   </poznam>
+    <sumOsv>0.0</sumOsv>
+    <sumZklSniz>0.0</sumZklSniz>
+    <sumZklSniz2>0.0</sumZklSniz2>
+    <sumZklZakl>4140.14</sumZklZakl>
+    <sumZklCelkem>4390.14</sumZklCelkem>
+    <sumDphSniz>0.0</sumDphSniz>
+    <sumDphSniz2>0.0</sumDphSniz2>
+    <sumDphZakl>921.86</sumDphZakl>
+    <sumDphCelkem>921.86</sumDphCelkem>
+    <sumCelkSniz>0.0</sumCelkSniz>
+    <sumCelkSniz2>0.0</sumCelkSniz2>
+    <sumCelkZakl>5112.0</sumCelkZakl>
+    <sumCelkem>5112.0</sumCelkem>
+    <sumOsvMen>0.0</sumOsvMen>
+    <sumZklSnizMen>0.0</sumZklSnizMen>
+    <sumZklSniz2Men>0.0</sumZklSniz2Men>
+    <sumZklZaklMen>171.49</sumZklZaklMen>
+    <sumZklCelkemMen>171.49</sumZklCelkemMen>
+    <sumDphZaklMen>36.01</sumDphZaklMen>
+    <sumDphSnizMen>0.0</sumDphSnizMen>
+    <sumDphSniz2Men>0.0</sumDphSniz2Men>
+    <sumDphCelkemMen>36.01</sumDphCelkemMen>
+    <sumCelkSnizMen>0.0</sumCelkSnizMen>
+    <sumCelkSniz2Men>0.0</sumCelkSniz2Men>
+    <sumCelkZaklMen>207.5</sumCelkZaklMen>
+    <sumCelkemMen>207.5</sumCelkemMen>
+    <slevaDokl>0.0</slevaDokl>
+    <kurz>15.6</kurz>
+    <kurzMnozstvi>1.0</kurzMnozstvi>
+    <stavUzivK/>
+    <nazFirmy>firma</nazFirmy>
+    <ulice>Firma 1</ulice>
+    <mesto>Praha</mesto>
+    <psc>160 00</psc>
+    <eanKod/>
+    <ic>00123456</ic>
+    <dic>CZ00164518</dic>
+    <pocetPriloh>0</pocetPriloh>
+    <buc>0013185314</buc>
+    <iban/>
+    <bic/>
+    <specSym/>
+    <bezPolozek>true</bezPolozek>
+    <ucetni>true</ucetni>
+    <szbDphSniz>15.0</szbDphSniz>
+    <szbDphSniz2>10.0</szbDphSniz2>
+    <szbDphZakl>21.0</szbDphZakl>
+    <uzpTuzemsko>false</uzpTuzemsko>
+    <zuctovano>true</zuctovano>
+    <datUcto>2019-03-15+01:00</datUcto>
+    <vyloucitSaldo>false</vyloucitSaldo>
+    <storno>false</storno>
+    <stitky/>
+    <typDokl ref="/c/abcdef_a_s_/typ-faktury-prijate/9.xml" showAs="FAKTURA: Faktura - daòový doklad">code:FAKTURA</typDokl>
+    <mena ref="/c/abcdef_a_s_/mena/11.xml" showAs="EUR: Euro">code:EUR</mena>
+    <konSym/>
+    <firma ref="/c/abcdef_a_s_/adresar/927.xml" showAs="D Company, s.r.o.">code:D SSSSSS</firma>
+    <stat ref="/c/abcdef_a_s_/stat/39.xml" showAs="Èeská republika">code:CZ</stat>
+    <banSpojDod showAs="1013384394/2700" if-not-found="null" ref="/c/abcdef_a_s_/adresar-bankovni-ucet/1885.xml">1885</banSpojDod>
+    <bankovniUcet ref="/c/abcdef_a_s_/bankovni-ucet/19.xml" showAs="B3 (209474127/0300)">code:B3</bankovniUcet>
+    <!-- DEPRECATED, use "bankovniUcet" -->
+    <typDoklBan ref="/c/abcdef_a_s_/bankovni-ucet/19.xml" showAs="B3 (209474127/0300)">code:B3</typDoklBan>
+    <typUcOp ref="/c/abcdef_a_s_/predpis-zauctovani/300.xml" showAs="M: Materiál na zakázky">code:M</typUcOp>
+    <primUcet ref="/c/abcdef_a_s_/ucet/378.xml" showAs="321020: Dodavatelé - zahranièí">code:321020</primUcet>
+    <protiUcet ref="/c/abcdef_a_s_/ucet/425.xml" showAs="501050: Spotøeba materiálu na zakázky">code:501050</protiUcet>
+    <dphZaklUcet ref="/c/abcdef_a_s_/ucet/391.xml" showAs="343020: DPH 21% - tuzemsko">code:343020</dphZaklUcet>
+    <dphSnizUcet ref="/c/abcdef_a_s_/ucet/390.xml" showAs="343010: DPH 1. snížená sazba - tuzemsko">code:343010</dphSnizUcet>
+    <dphSniz2Ucet ref="/c/abcdef_a_s_/ucet/312.xml" showAs="343005: Daò z pøidané hodnoty - 2. snížená sazba">code:343005</dphSniz2Ucet>
+    <smerKod ref="/c/abcdef_a_s_/penezni-ustav/14.xml" showAs="2700">code:2700</smerKod>
+    <statDph ref="/c/abcdef_a_s_/stat/39.xml" showAs="Èeská republika">code:CZ</statDph>
+    <clenDph ref="/c/abcdef_a_s_/cleneni-dph/108.xml" showAs="40-41: Z pøijatých zdanitelných plnìní od plátcù">code:40-41</clenDph>
+    <stredisko ref="/c/abcdef_a_s_/stredisko/1.xml" showAs="C: Centrála">code:C</stredisko>
+    <cinnost/>
+    <zakazka ref="/c/abcdef_a_s_/zakazka/2223.xml" showAs="Z18-0421: SPRM - Úprava sklepa pro obsluhu autocisterny (Ostravar)">code:Z18-0421</zakazka>
+    <statOdesl/>
+    <statUrc/>
+    <statPuvod/>
+    <dodPodm/>
+    <obchTrans/>
+    <druhDopr/>
+    <zvlPoh/>
+    <krajUrc/>
+    <uzivatel ref="/c/abcdef_a_s_/uzivatel/1.xml" showAs="John Doe">code:spravce</uzivatel>
+    <zodpOsoba ref="/c/abcdef_a_s_/uzivatel/1.xml" showAs="John Doe">code:spravce</zodpOsoba>
+    <kontaktOsoba/>
+    <kontaktJmeno/>
+    <kontaktEmail/>
+    <kontaktTel/>
+    <rada showAs="PFA: PFA - tuzemsko" if-not-found="null" ref="/c/abcdef_a_s_/rada-faktury-prijate/54.xml">code:PFA</rada>
+    <formaDopravy/>
+    <uuid>5a194302338b7f25a1d41ded5d031b9471aeed71</uuid>
+    <source/>
+    <clenKonVykDph ref="/c/abcdef_a_s_/cleneni-kontrolni-hlaseni/31.xml" showAs="(CZ) B.2-3.AUTO: Pøijatá zdanitelná plnìní skupiny B.2. nebo B.3. dle èástky (automaticky)">code:B.2-3.AUTO</clenKonVykDph>
+    <datUp1/>
+    <datUp2/>
+    <datSmir/>
+    <datPenale/>
+    <podpisPrik>false</podpisPrik>
+    <prikazSum>0.0</prikazSum>
+    <prikazSumMen>0.0</prikazSumMen>
+    <juhSum>5312.0</juhSum>
+    <juhSumMen>207.5</juhSumMen>
+    <juhDat>0.0</juhDat>
+    <juhDatMen>0.0</juhDatMen>
+    <zbyvaUhradit>0.0</zbyvaUhradit>
+    <zbyvaUhraditMen>0.0</zbyvaUhraditMen>
+    <formaUhradyCis ref="/c/abcdef_a_s_/forma-uhrady/3.xml" showAs="PREVOD: Pøevodem">code:PREVOD</formaUhradyCis>
+    <stavUhrK showAs="Uhrazeno">stavUhr.uhrazeno</stavUhrK>
+    <juhSumPp>0.0</juhSumPp>
+    <juhSumPpMen>0.0</juhSumPpMen>
+    <sumPrepl>0.0</sumPrepl>
+    <sumPreplMen>0.0</sumPreplMen>
+    <sumZalohy>0.0</sumZalohy>
+    <sumZalohyMen>0.0</sumZalohyMen>
+    <stavOdpocetK/>
+    <generovatSkl>true</generovatSkl>
+    <hromFakt>false</hromFakt>
+    <zdrojProSkl>true</zdrojProSkl>
+    <zakazPlatba>false</zakazPlatba>
+    <dobropisovano>false</dobropisovano>
+    <sumCelkemBezZaloh>5312.0</sumCelkemBezZaloh>
+    <sumCelkemBezZalohMen>207.5</sumCelkemBezZalohMen>
+    <typDoklSkl ref="/c/abcdef_a_s_/typ-skladovy-pohyb/1.xml" showAs="STANDARD: Standardní skladový pohyb">code:STANDARD</typDoklSkl>
+  </faktura-prijata>
+</winstrom>
